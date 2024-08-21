@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ## Software Developer & UI/UX Engineer
 
-👋 Hi there! I'm James AKA Fikshun, a passionate software developer and UI/UX engineer. As an Applied Computer Science graduate from the United States International University-Africa, I bring a dynamic blend of technical expertise and a passion for innovation to the field of UI/UX engineering. With a strong foundation in development skills and a knack for effective communication, I am committed to driving positive change through technology.
+👋 Hi there! I'm James also known as Fikshun, a passionate software developer and UI/UX engineer. As an Applied Computer Science graduate from the United States International University-Africa, I bring a dynamic blend of technical expertise and a passion for innovation to the field of UI/UX engineering. With a strong foundation in development skills and a knack for effective communication, I am committed to driving positive change through technology.
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** Flutter, Django, Kotlin, Python, PHP, HTML, CSS, C#, .NET framework
